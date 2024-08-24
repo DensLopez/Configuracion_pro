@@ -1,0 +1,6 @@
+name: env
+channels:
+  - conda-forge
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/dens/miniforge3/envs/env
