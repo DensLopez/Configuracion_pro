@@ -50,3 +50,7 @@ Conoce cómo personalizar un entorno de trabajo de ciencia de datos basado en Py
 ### Conclusiones
 
 - Aplica estas herramientas - [code014.ipynb](codes/code014.ipynb), [code014.html](codes/html/code014.html)
+
+### Final
+
+- Examen - [Examen](codes/examen.pdf)
